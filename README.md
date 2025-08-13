@@ -6,7 +6,7 @@ A comprehensive collection of specialized AI agents designed to accelerate and e
 
 1. **Download this repository:**
    ```bash
-   git clone https://github.com/contains-studio/agents.git
+   git clone https://github.com/wilsonllucena/agents.git
    ```
 
 2. **Copy to your Claude Code agents directory:**
@@ -296,3 +296,6 @@ To improve existing agents or suggest new ones:
 2. Test thoroughly with real projects
 3. Document performance improvements
 4. Share successful patterns with the community
+
+## Crédits
+Contains Studio AI Agents
